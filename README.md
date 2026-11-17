@@ -2,6 +2,11 @@
 
 Aplicativo de acompanhamento de viagens metroferroviárias para Fortaleza e região.
 
+## Documentação
+
+- [Status e planejamento](docs/PROJECT_STATUS.md)
+- [Histórico de execução](docs/EXECUTION_LOG.md)
+
 ## Stack
 
 - React Native
